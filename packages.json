@@ -1,0 +1,2077 @@
+{
+    "packages": {
+        "wordpress-tests-core": {
+            "4.6.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.6.1",
+                "version_normalized": "4.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.6.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.6.1",
+                    "reference": "da177436a1a52e13efb078b96bf3cca5f7650cef"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.6.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.6.0",
+                "version_normalized": "4.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.6.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.6.0",
+                    "reference": "da177436a1a52e13efb078b96bf3cca5f7650cef"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.5.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.5.4",
+                "version_normalized": "4.5.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.5.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.5.4",
+                    "reference": "aea061cbe73bc4807ebd22a186768cf110df8bfa"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.5.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.5.3",
+                "version_normalized": "4.5.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.5.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.5.3",
+                    "reference": "aea061cbe73bc4807ebd22a186768cf110df8bfa"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.5.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.5.2",
+                "version_normalized": "4.5.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.5.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.5.2",
+                    "reference": "aea061cbe73bc4807ebd22a186768cf110df8bfa"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.5.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.5.1",
+                "version_normalized": "4.5.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.5.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.5.1",
+                    "reference": "aea061cbe73bc4807ebd22a186768cf110df8bfa"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.5.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.5.0",
+                "version_normalized": "4.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.5.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.5.0",
+                    "reference": "96af90c73f8eaef1768261463c6a2018c0e86d1b"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.4.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.4.5",
+                "version_normalized": "4.4.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.4.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.4.5",
+                    "reference": "c3442a264ee83534fdf5962953f977b2ccb1f8ed"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.4.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.4.4",
+                "version_normalized": "4.4.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.4.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.4.4",
+                    "reference": "c3442a264ee83534fdf5962953f977b2ccb1f8ed"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.4.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.4.3",
+                "version_normalized": "4.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.4.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.4.3",
+                    "reference": "c3442a264ee83534fdf5962953f977b2ccb1f8ed"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.4.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.4.2",
+                "version_normalized": "4.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.4.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.4.2",
+                    "reference": "c3442a264ee83534fdf5962953f977b2ccb1f8ed"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.4.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.4.1",
+                "version_normalized": "4.4.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.4.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.4.1",
+                    "reference": "c3442a264ee83534fdf5962953f977b2ccb1f8ed"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.4.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.4.0",
+                "version_normalized": "4.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.4.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.4.0",
+                    "reference": "c3442a264ee83534fdf5962953f977b2ccb1f8ed"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.6",
+                "version_normalized": "4.3.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.6",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.5",
+                "version_normalized": "4.3.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.5",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.4",
+                "version_normalized": "4.3.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.4",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.3",
+                "version_normalized": "4.3.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.3",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.2",
+                "version_normalized": "4.3.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.2",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.1",
+                "version_normalized": "4.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.1",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.3.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.3.0",
+                "version_normalized": "4.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.3.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.3.0",
+                    "reference": "57cd50436c98c109e4d76550b83fda699962960d"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.10": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.10",
+                "version_normalized": "4.2.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.10\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.10",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.9": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.9",
+                "version_normalized": "4.2.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.9\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.9",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.8": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.8",
+                "version_normalized": "4.2.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.8\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.8",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.7": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.7",
+                "version_normalized": "4.2.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.7\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.7",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.6",
+                "version_normalized": "4.2.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.6",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.5",
+                "version_normalized": "4.2.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.5",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.4",
+                "version_normalized": "4.2.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.4",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.3",
+                "version_normalized": "4.2.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.3",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.2",
+                "version_normalized": "4.2.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.2",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.1",
+                "version_normalized": "4.2.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.1",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.2.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.2.0",
+                "version_normalized": "4.2.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.2.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.2.0",
+                    "reference": "bae2edcd9eebde0baf460fea5a576ccf0540d343"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.13": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.13",
+                "version_normalized": "4.1.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.13\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.13",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.12": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.12",
+                "version_normalized": "4.1.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.12\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.12",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.11": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.11",
+                "version_normalized": "4.1.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.11\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.11",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.10": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.10",
+                "version_normalized": "4.1.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.10\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.10",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.9": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.9",
+                "version_normalized": "4.1.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.9\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.9",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.8": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.8",
+                "version_normalized": "4.1.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.8\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.8",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.7": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.7",
+                "version_normalized": "4.1.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.7\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.7",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.6",
+                "version_normalized": "4.1.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.6",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.5",
+                "version_normalized": "4.1.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.5",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.4",
+                "version_normalized": "4.1.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.4",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.3",
+                "version_normalized": "4.1.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.3",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.2",
+                "version_normalized": "4.1.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.2",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.1",
+                "version_normalized": "4.1.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.1",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.1.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.1.0",
+                "version_normalized": "4.1.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.1.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.1.0",
+                    "reference": "4eb36a221a1c43c77a90c387a9107858a091da85"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.13": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.13",
+                "version_normalized": "4.0.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.13\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.13",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.12": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.12",
+                "version_normalized": "4.0.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.12\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.12",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.11": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.11",
+                "version_normalized": "4.0.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.11\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.11",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.10": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.10",
+                "version_normalized": "4.0.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.10\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.10",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.9": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.9",
+                "version_normalized": "4.0.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.9\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.9",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.8": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.8",
+                "version_normalized": "4.0.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.8\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.8",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.7": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.7",
+                "version_normalized": "4.0.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.7\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.7",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.6",
+                "version_normalized": "4.0.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.6",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.5",
+                "version_normalized": "4.0.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.5",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.4",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.3",
+                "version_normalized": "4.0.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.3",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.2",
+                "version_normalized": "4.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.2",
+                    "reference": "c86ef06f84347211b74edf9dfaad89329f6eac80"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.1",
+                    "reference": "7570cc752e824f7c2e12b422625e54d8474e5098"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "4.0.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/4.0.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/4.0.0",
+                    "reference": "7570cc752e824f7c2e12b422625e54d8474e5098"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.14": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.14",
+                "version_normalized": "3.9.14.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.14\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.14",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.13": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.13",
+                "version_normalized": "3.9.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.13\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.13",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.12": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.12",
+                "version_normalized": "3.9.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.12\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.12",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.11": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.11",
+                "version_normalized": "3.9.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.11\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.11",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.10": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.10",
+                "version_normalized": "3.9.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.10\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.10",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.9": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.9",
+                "version_normalized": "3.9.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.9\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.9",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.8": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.8",
+                "version_normalized": "3.9.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.8\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.8",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.7": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.7",
+                "version_normalized": "3.9.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.7\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.7",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.6",
+                "version_normalized": "3.9.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.6",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.5",
+                "version_normalized": "3.9.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.5",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.4",
+                "version_normalized": "3.9.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.4",
+                    "reference": "13a90959ca854ef4f2de4766031b0ac5c58a18d0"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.3",
+                "version_normalized": "3.9.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.3",
+                    "reference": "2a2072b5be1b62c68b89a9cfdc198d527fbd7e79"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.2",
+                "version_normalized": "3.9.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.2",
+                    "reference": "2a2072b5be1b62c68b89a9cfdc198d527fbd7e79"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.1",
+                "version_normalized": "3.9.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.1",
+                    "reference": "2a2072b5be1b62c68b89a9cfdc198d527fbd7e79"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.9.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.9.0",
+                "version_normalized": "3.9.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.9.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.9.0",
+                    "reference": "2a2072b5be1b62c68b89a9cfdc198d527fbd7e79"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.16": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.16",
+                "version_normalized": "3.8.16.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.16\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.16",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.15": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.15",
+                "version_normalized": "3.8.15.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.15\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.15",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.14": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.14",
+                "version_normalized": "3.8.14.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.14\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.14",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.13": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.13",
+                "version_normalized": "3.8.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.13\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.13",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.12": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.12",
+                "version_normalized": "3.8.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.12\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.12",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.11": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.11",
+                "version_normalized": "3.8.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.11\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.11",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.10": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.10",
+                "version_normalized": "3.8.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.10\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.10",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.9": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.9",
+                "version_normalized": "3.8.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.9\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.9",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.8": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.8",
+                "version_normalized": "3.8.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.8\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.8",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.7": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.7",
+                "version_normalized": "3.8.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.7\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.7",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.6",
+                "version_normalized": "3.8.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.6",
+                    "reference": "54b2cd301eb7374356c6179520e6f5607288c1c9"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.5",
+                "version_normalized": "3.8.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.5",
+                    "reference": "5ebb797d89461b7880242563c9b9da7169b82d9a"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.4",
+                "version_normalized": "3.8.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.4",
+                    "reference": "5ebb797d89461b7880242563c9b9da7169b82d9a"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.3",
+                "version_normalized": "3.8.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.3",
+                    "reference": "5ebb797d89461b7880242563c9b9da7169b82d9a"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.2",
+                "version_normalized": "3.8.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.2",
+                    "reference": "5ebb797d89461b7880242563c9b9da7169b82d9a"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.1",
+                "version_normalized": "3.8.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.1",
+                    "reference": "5ebb797d89461b7880242563c9b9da7169b82d9a"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.8.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.8.0",
+                "version_normalized": "3.8.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.8.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.8.0",
+                    "reference": "5ebb797d89461b7880242563c9b9da7169b82d9a"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.16": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.16",
+                "version_normalized": "3.7.16.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.16\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.16",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.15": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.15",
+                "version_normalized": "3.7.15.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.15\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.15",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.14": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.14",
+                "version_normalized": "3.7.14.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.14\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.14",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.13": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.13",
+                "version_normalized": "3.7.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.13\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.13",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.12": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.12",
+                "version_normalized": "3.7.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.12\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.12",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.11": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.11",
+                "version_normalized": "3.7.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.11\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.11",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.10": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.10",
+                "version_normalized": "3.7.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.10\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.10",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.9": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.9",
+                "version_normalized": "3.7.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.9\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.9",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.8": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.8",
+                "version_normalized": "3.7.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.8\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.8",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.7": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.7",
+                "version_normalized": "3.7.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.7\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.7",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.6": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.6",
+                "version_normalized": "3.7.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.6\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.6",
+                    "reference": "90567aab16c296cc6d14c3d299dd45e281e8f5c8"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.5": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.5",
+                "version_normalized": "3.7.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.5\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.5",
+                    "reference": "208753142a9edf9940c525aeb33090358306f274"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.4": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.4",
+                "version_normalized": "3.7.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.4\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.4",
+                    "reference": "208753142a9edf9940c525aeb33090358306f274"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.3": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.3",
+                "version_normalized": "3.7.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.3\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.3",
+                    "reference": "208753142a9edf9940c525aeb33090358306f274"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.2": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.2",
+                "version_normalized": "3.7.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.2\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.2",
+                    "reference": "208753142a9edf9940c525aeb33090358306f274"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.1": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.1",
+                "version_normalized": "3.7.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.1\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.1",
+                    "reference": "208753142a9edf9940c525aeb33090358306f274"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "3.7.0": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "3.7.0",
+                "version_normalized": "3.7.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "tags\/3.7.0\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/3.7.0",
+                    "reference": "208753142a9edf9940c525aeb33090358306f274"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            },
+            "dev-master": {
+                "name": "aaemnnosttv\/wordpress-tests-core",
+                "type": "wordpress-tests-core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/develop.svn.wordpress.org\/",
+                    "reference": "trunk\/tests\/phpunit\/includes\/"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/api.github.com\/repos\/aaemnnosttv\/wordpress-tests-core-two\/zipball\/28c3d47b7e55dbf41f534cefa396341bf757c287",
+                    "reference": "28c3d47b7e55dbf41f534cefa396341bf757c287"
+                },
+                "require": {
+                    "aaemnnosttv\/wordpress-tests-core-installer": "^0.1"
+                }
+            }
+        }
+    }
+}
